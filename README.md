@@ -17,4 +17,5 @@ Architecture Diagram-
 Website Screenshot-
 
 
-![2](https://github.com/Manojnagam/TravelSafe-Website/assets/77600103/2f898c97-7875-4f2b-9c79-7ab35c9038fa)
+![2](https://github.com/Manojnagam/TravelSafe-Website/assets/77600103/d2687e32-5f33-4f0f-b278-5cd0f8ceb7ec)
+
