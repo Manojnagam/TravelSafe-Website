@@ -8,3 +8,10 @@ Implementation Details -
 ->The backend has been implemented using python flask.
 
 ->The frontend is simple HTML, Javascript.
+
+Architecture Diagram-
+
+
+![1](https://github.com/Manojnagam/TravelSafe-Website/assets/77600103/92063289-2e94-435e-bd23-aa593f4058a2)
+
+
